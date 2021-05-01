@@ -6,10 +6,10 @@ LOCATIONS = {'USA': 'us-east-2 (Ohio)', 'EUR': 'eu-central-1 (Frankfurt)'}
 
 # mapping the codes to loactions
 COUNTRY_CODES = {
-    'PL': 'EUR',
+    'BR': 'USA',
     'DE': 'EUR',
-    'BR': 'EUR',
     'IL': 'EUR',
+    'PL': 'EUR',
     'US': 'USA'
 }
 GEO_API_URL = 'https://ipwhois.app/json/'
